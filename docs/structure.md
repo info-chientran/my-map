@@ -6,16 +6,12 @@
     |-- asset
         |-- images
         |-- styles
-            |-- custom.scss
-            |-- reset.scss
     |-- components
     |-- data
     |-- layouts
     |-- lib
     |-- pages
     |-- utils
-    |-- App.js
-    |-- index.js
 ```
 
 # Detail
@@ -36,14 +32,3 @@ This directory contains any utility functions or libraries used in the project.
 This directory contains pages for the project.
 ## utils
 This directory contains any utility functions used in the project.
-
-## File
-### SCSS
-custom.scss: Custom styles defined by the user. 
-
-reset.scss: A reset stylesheet used to normalize the styles.
-
-### Default
-App.js: The root component for the project.
-
-index.js: The entry point for the project.
